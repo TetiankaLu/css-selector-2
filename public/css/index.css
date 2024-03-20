@@ -1,1 +1,90 @@
+.btn:hover {
+    color: red;
+    background: yellow;
+}
+
+.title:hover {
+    background: green;
+}
+
+.link:visited {
+    color: yellow;
+}
+
+a:link {
+    color: red;
+}
+
+.btn:active {
+    background: blue;
+}
+
+.btn:focus {
+    color: orange;
+    background: orangered;
+}
+
+#target {
+    color:white;
+    background: green;
+}
+
+label,input[type="checkbox"] {
+    color: white;
+    background: blue;
+}
+
+p:lang(uk) {
+    color: blue;
+}
+
+label,input:enabled {
+    color: red;
+    background: yellow;
+}
+
+input:disabled {
+    background: yellow;
+}
+
+input:read-write {
+    background: yellow;
+}
+
+input:read-only {
+    background: yellow;
+} 
+
+input:valid {
+    background: green;
+}
+
+input:invalid {
+    background: red;
+}
+
+input:optional {
+    background: red;
+}
+
+input:out-of-range {
+    background: red;
+}
+
+input:in-range {
+    background: red;
+}
+
+input:placeholder-shown {
+    background: green;
+}
+
+button:focus-within {
+    color: wheat;
+    background: yellow;
+}
+
+input:invalid {
+    background: red;
+}
 
